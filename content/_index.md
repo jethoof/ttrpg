@@ -1,8 +1,10 @@
 ---
 title: Jethoof's Sandbox
 ---
+[[10 Publish/ttrpg/content/notes/Vith, City of Guilds/Vith, City of Guilds|Vith]]
 
-Going to test with the link here [[notes/testnote here|teseting]]
+
+Going to test with the link here [[notes/testnote here|testing]]
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search|search]]
