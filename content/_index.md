@@ -1,7 +1,11 @@
 ---
 title: Jethoof's Sandbox
 ---
+<<<<<<< HEAD
 [[OMG One Shot Campaign Selection and Outline]]
+=======
+[[notes/OMG One Shot Campaign Selection and Outline]]
+>>>>>>> 384eb33c0e5f736c8e9ed23d1465904959226544
 
 %%
 Going to test with the link here [[notes/testnote here|testing]]
