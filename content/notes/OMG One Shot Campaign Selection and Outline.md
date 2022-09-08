@@ -23,7 +23,7 @@ This is just to speed up the character creation process of things and I'm pretty
 - **Quirk**: At level 1, you have a bonus feat. 
 ## List of Scenarios
 > [!summary]- 1. Howling in the Night 
->**Theme**: Oriental Horror Fantasy
+>| **Theme**: Oriental Horror Fantasy
 >
 >Moen is a small fife of the Scarlet Boar Kingdom in the Dragon Spine Mountains bordering the Obsidian Panther Kingdom renown for producing wild mushrooms used in creating  potent healing elixirs. Recently, the wolf spirit shrine, a local guardian spirit worshipped by the locals, has been taken over by a group of bandits and started hindering mushroom harvest by kidnapping anyone who enter the forest. There's also a rumor of an unnatural beast howl in the night since the bandit's arrival. The regent sent out minstrels for mercenaries to quell this issue as their main military is focused on securing their region from Obsidian forces. You are one of the mercenaries heard about the melody of opportunity.
 >> [!info]- Available Races
@@ -32,7 +32,7 @@ This is just to speed up the character creation process of things and I'm pretty
 >>- Rare: Halfling, Tiefling
 
 > [!summary]- 2. Iron Hounds Reliquary 
->**Theme**: Western Fantasy Heist 
+>| **Theme**: Western Fantasy Heist 
 >
 >Iron Hounds is Vith's biggest dewarven security guild that is part of the Major Twelve guilds governing the city. The dwarves are known for keeping their fallen in their own burial grounds and Iron Hounds has their own called the Reliquary. You are part of a small guild named [[Ratcatchers]], a guild known for accepting in various newcomers to Vith and taking dirty jobs with hefty payments. The guild has assigned you a experienced Ratcatcher member titled Rattrapper with a daunting yet rewarding request; Infiltrate into the Iron Hound's Reliquary and retrieve one of their strongbox in the vault. 
 >> [!info]- Available Races
@@ -41,7 +41,7 @@ This is just to speed up the character creation process of things and I'm pretty
 >> - Rare: Dragonborn, Tabaxi
 
 > [!summary]- 3. Pie Delivery?
->**Theme**: Western Fantasy Point Crawl
+>| **Theme**: Western Fantasy Point Crawl
 >
 >Ringbay is the most northwestern port town among human settlements in Sehin and it was known for gold rush fifty years ago and still used as a base of operation for many gold prospectors heading up north to the marshlands up to Fort Salt Marsh. The area is also well known for its ongoing skirmish with the goblin tribes to the East and so far it has been in stalemate as neither side has the resources to cross the wild forest and marshlands to strike one another at full force.
 >
