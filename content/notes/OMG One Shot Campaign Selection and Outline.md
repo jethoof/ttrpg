@@ -31,7 +31,7 @@ This is just to speed up the character creation process of things and I'm pretty
 >>- Uncommon: Elf, Dwarf, Gnome
 >>- Rare: Halfling, Tiefling
 
-> [!summary]- 2. [[/notes/Iron Hounds Reliquary|Iron Hounds Reliquary ]]
+> [!summary]- 2. [[notes/Iron Hounds Reliquary|Iron Hounds Reliquary ]]
 >| **Theme**: Western Fantasy Heist 
 >
 >Iron Hounds is Vith's biggest dewarven security guild that is part of the Major Twelve guilds governing the city. The dwarves are known for keeping their fallen in their own burial grounds and Iron Hounds has their own called the Reliquary. You are a member in a small guild called Ratcatchers,  known for taking dirty jobs for hefty payments no one talks about. Your group leader, came to you with a daunting yet rewarding request; Infiltrate into the Iron Hound's Reliquary and retrieve one of their strongbox in the vault.
