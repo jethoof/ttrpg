@@ -35,7 +35,6 @@ This is just to speed up the character creation process of things and I'm pretty
 **Theme**: Western Fantasy Heist 
 >
 Iron Hounds is Vith's biggest dewarven security guild that is part of the Major Twelve guilds governing the city. The dwarves are known for keeping their fallen in their own burial grounds and Iron Hounds has their own called the Reliquary. You are part of a small guild named [[Ratcatchers]], a guild known for accepting in various newcomers to Vith and taking dirty jobs with hefty payments. The guild has assigned you a experienced Ratcatcher member titled Rattrapper with a daunting yet rewarding request; Infiltrate into the Iron Hound's Reliquary and retrieve one of their strongbox in the vault. 
->
 >> [!info]- Available Races
 >> - Common: Human, Dwarf, Elf, Lizardfolk, Halfling
 >> - Uncommon: Half-Elf, Half-Orc, Gnome, Tiefling
@@ -47,7 +46,6 @@ Iron Hounds is Vith's biggest dewarven security guild that is part of the Major 
 Ringbay is the most northwestern port town among human settlements in Sehin and it was known for gold rush fifty years ago and still used as a base of operation for many gold prospectors heading up north to the marshlands up to Fort Salt Marsh. The area is also well known for its ongoing skirmish with the goblin tribes to the East and so far it has been in stalemate as neither side has the resources to cross the wild forest and marshlands to strike one another at full force.
 >
 You are hired by Domalin, a middle aged dwarf merchant, to escort his caravan from Ringbay to Kupferkrone, A dwarven city state in Jagged Mountains to the East by taking the road around the wilds through Berryglen, a halfling settlement known for pies. You have a former relationship with this Dwarf and because of this he has paid you some advance coins to sweeten the deal for a simple, caravan protection. What could possibly go wrong?
->
 >>[!info]- Available Races
 >>- Common: Human, Dwarf, Elf, Lizardfolk, Halfling
 >>- Uncommon: Half-Elf, Half-Orc, Gnome, Tiefling
