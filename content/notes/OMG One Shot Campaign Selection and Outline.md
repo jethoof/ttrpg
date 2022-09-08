@@ -8,6 +8,8 @@ alias: OMG 1Shot
 status:
 cssclass:
 ---
+**Date**: 1:30 pm PST, Saturday, September 24, 2022
+
 > [!example] Character Creation
 > - Level: 3
 > - Stat Arrangement: Standard Array (15 14 13 12 10 8)
