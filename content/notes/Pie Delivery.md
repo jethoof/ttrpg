@@ -7,11 +7,8 @@ tags:
 - 
 status:
 ---
-%%Tasks:
-%%
-[Source]()
 
-NPCs
+## NPCs
 Domalin
 Higs
 Thimble
