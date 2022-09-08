@@ -1,7 +1,7 @@
 ---
 title: Jethoof's Sandbox
 ---
-[[OMG One Shot Campaign Selection and Outline]]
+[[notes/OMG One Shot Campaign Selection and Outline]]
 
 %%
 Going to test with the link here [[notes/testnote here|testing]]
