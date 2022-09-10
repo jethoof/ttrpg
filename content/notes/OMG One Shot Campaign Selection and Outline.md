@@ -6,7 +6,7 @@ tags:
 task:
 alias: OMG 1Shot
 status:
-cssclass:
+cssclass: readable
 ---
 **Date**: 1:30 pm PST, Saturday, September 24, 2022
 
