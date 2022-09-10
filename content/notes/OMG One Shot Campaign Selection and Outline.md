@@ -24,6 +24,7 @@ This is just to speed up the character creation process of things and I'm pretty
 - **Heirloom**: You gain one mastercraft equipment that's been in your family passed down for generation(s).
 - **Quirk**: At level 1, you have a bonus feat. 
 ## List of Scenarios
+
 > [!summary]- 1. [[notes/Howling in the Night|Howling in the Night]]
 >| **Theme**: Oriental Horror Fantasy
 >
