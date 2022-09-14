@@ -22,3 +22,7 @@ The city has seen many changes as it moved from council from each of the races t
 **Level Range**: 3 - 8
 **Recommended Number of Players**: 3 to 5.
 **Level Progression Method**: Milestone based.
+
+
+---
+[[../../../../../30 Worldbuilding/30.10 Xinsei/30.13 Locations/Vith, City of Guilds|Vith]]
