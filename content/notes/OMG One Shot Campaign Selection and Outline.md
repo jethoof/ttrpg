@@ -1,9 +1,8 @@
 ---
 date: 2022-09-07
-title: OMG One Shot Campaign Selection and Outline
+title: OMG One Shot: Iron Hounds Reliquary Heist
 tags:
-- 
-task:
+- DnD
 alias: OMG 1Shot
 status:
 cssclass: readable
@@ -21,7 +20,7 @@ cssclass: readable
 
 This is just to speed up the character creation process of things and I'm pretty flexible with whatever character you bring it to me as long as you have solid concept behind it. The Available Races and their rarity will affect how the denizens will see and treat you. 
 ### Homebrews: 
-- **Being Smart Helps**: You gain additional Skill/Language/Tool proficiency equal to your Int Mod (Yes, this means negative will cause you to lost one!)
+- **Being Smart Helps**: You gain additional Skill/Language/Tool proficiency equal to your Int Mod (Yes, this means negative will cause you to lose some!)
 - **Heirloom**: You gain one mastercraft (non-magical +1 item) equipment that's been in your family passed down for generation(s).
 - **Quirk**: At level 1, you have a bonus feat. 
 ## Scenario
