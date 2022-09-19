@@ -1,7 +1,7 @@
 ---
 title: Opossum's Introduction to the Iron Hound's Reliquary
 ---
-There you are, finally, we can get things started. Listen, the last time we tried to steal Lunar Pear's seasonal golden pears? I wasn't expecting them to have that many guards. They doubled the security since the last time and well I... we got you out.... no hard feelings right? This time I have something easier. We're probably prying something off from the dead instead of the living. Our client wants to remain annoy... annoying... anonymus, but my guess is they are one of the big twelve guilds else why they want to mess with the biggest security guild? 
+There you are, listen, the last time we tried to steal Lunar Pear's seasonal golden pears? I wasn't expecting them to have that many guards. They doubled the security since the last time and I... we got you out... no hard feelings right? This time I have something easier. We're probably prying something off from the dead instead of the living. Our client wants to remain annoy... annoying... anonymus! My guess is they are one of the big twelve guilds else why they want to mess with the biggest security guild? 
 
 Let's cut to the cheese, stuff our client want is four clear crystals in a strongbox 137 in Iron Hound's Reliquary. yup, those mean dwarven black bastards keep their dead kin in their own crypt. But what are they but just another greedy dwarves? once I did a little sniffing around, there's quite a security, I think we have something here my fellow Catchers. They have two guards on a 4 hour rotation and a designated candle keeper basically lives in the tomb. They do take in visitors, I've only seen dwarves no less, but I couldn't observe any further as a human scurrying around the dwarven district sticks out like a rat in a granary.
 
@@ -11,9 +11,13 @@ Our client has given us a rough detail of what is to be expected; guards, traps 
 > A poem
 > 
 > 	A Bulwark with two shields, 
+> 	
 > 	A Cleric with seven fingers,
+> 	
 > 	A captain with a trident,
+> 	
 > 	And a Scout with no arrows,
+> 	
 > 	Together, they've fought, laughed and laid here.
 > 
 > Vial of Acid, 4
