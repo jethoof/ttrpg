@@ -1,7 +1,8 @@
 ---
 title: Jethoof's Sandbox
 ---
-[[notes/OMG One Shot Campaign Selection and Outline|OMG 1Shot]]
+- [[notes/OMG One Shot Campaign Selection and Outline|OMG 1Shot]]
+- [[notes/Vith, City of Guilds/Reliquary Heist Introduction by Opossum|1Shot Introduction]]
 
 >[!note]- 
 > Going to test with the link here [[notes/testnote here|testing]]
