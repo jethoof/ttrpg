@@ -7,6 +7,7 @@ task:
 status:
 cssclass:
 words:
+draft: true
 ---
 %% From [[Iron Hounds Reliquary]]%%
 # `=this.title`

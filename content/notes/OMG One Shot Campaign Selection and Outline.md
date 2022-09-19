@@ -23,6 +23,7 @@ This is just to speed up the character creation process of things and I'm pretty
 - **Being Smart Helps**: You gain additional Skill/Language/Tool proficiency equal to your Int Mod (Yes, this means negative will cause you to lose some!)
 - **Heirloom**: You gain one mastercraft (non-magical +1 item) equipment that's been in your family passed down for generation(s).
 - **Quirk**: At level 1, you have a bonus feat. 
+
 ## Scenario
 
 > [!summary] Iron Hounds Reliquary
