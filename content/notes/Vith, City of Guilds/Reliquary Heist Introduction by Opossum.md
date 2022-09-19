@@ -8,7 +8,8 @@ Let's cut to the cheese, stuff our client want is four clear crystals in a stron
 Our client has given us a rough detail of what is to be expected; guards, traps and a safe to crack. Also this chest with some helpful tools. 
 
 > [!info]- Chest
-> A poem
+> 
+> - A poem
 > 
 > 	A Bulwark with two shields, 
 > 	
@@ -20,9 +21,10 @@ Our client has given us a rough detail of what is to be expected; guards, traps 
 > 	
 > 	Together, they've fought, laughed and laid here.
 > 
-> Vial of Acid, 4
 > 
-> A key with 137 written on it
+> - Vial of Acid, 4
+> 
+> - A key with 137 written on it
 
 Remember this is a guarded tomb, so I bet there's something shiny down there and those crafty dwarves would have made machinations to prevent good folks like us. Be careful of their tiled floor tiles and weird holes on the wall. Or maybe they have something to prevent the Candle Keeper to not trigger any of them.
 
