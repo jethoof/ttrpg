@@ -20,6 +20,9 @@ cssclass: readable
 > - Available Books: Up to Tasha's Cauldron of Everything, no UA.
 
 This is just to speed up the character creation process of things and I'm pretty flexible with whatever character you bring it to me as long as you have solid concept behind it. The Available Races and their rarity will affect how the denizens will see and treat you. 
+
+[[/notes/20220922164036|OMG 1Shot Roster]]
+
 ### Homebrews: 
 - **Being Smart Helps**: You gain additional Skill/Language/Tool proficiency equal to your Int Mod (Yes, this means negative will cause you to lose some!)
 - **Heirloom**: You gain one mastercraft (non-magical +1 item) equipment that's been in your family passed down for generation(s).
