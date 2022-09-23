@@ -1,12 +1,13 @@
 ---
 date: 2022-09-07
-title: OMG One Shot: Iron Hounds Reliquary Heist
+title: OMG One Shot - Iron Hounds Reliquary Heist
 tags:
-- DnD
+ - DnD
 alias: OMG 1Shot
 status:
 cssclass: readable
 ---
+
 **Date**: 1:30 pm PST, Saturday, September 24, 2022 <br>
 **Session Length**: Approx. 3.5 hours
 
