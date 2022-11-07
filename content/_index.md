@@ -1,9 +1,11 @@
 ---
 title: Jethoof's Sandbox
 ---
-- [[notes/OMG One Shot Campaign Selection and Outline|OMG 1Shot]]
-- [[notes/Vith, City of Guilds/Reliquary Heist Introduction by Opossum|1Shot Introduction]]
 
+Hi I am Jethoof and I love running TTRPG, mainly Dungeons and Dragons 5e, and trying to use this place to share some of the things I do with my several game groups. One of the things I  share here is the 1shot proposals for my online group [Obsidian Markdown](https://obsidian.md/) 
+
+#DnD
+%%
 >[!note]- 
 > Going to test with the link here [[notes/testnote here|testing]]
 > Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
@@ -29,3 +31,4 @@ title: Jethoof's Sandbox
 > - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
 
+%%
