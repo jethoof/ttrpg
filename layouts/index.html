@@ -6,27 +6,6 @@
 {{partial "search.html" .}}
 <div class="singlePage">
     <!-- Begin actual content -->
-       <div class="writing-sidebar">
-            <div class="delay t-3">
-                <h2>Recent Writing</h2>
-                {{$writing := where .Site.RegularPages "Section" "posts" }}
-                <ul class="delay stagger">
-                    {{range first 3 $writing }}
-                    <li>
-                        <div class="section">
-                            <div class="desc">
-                                <h3><a href="{{ .Permalink }}">{{- .Title -}}</a></h3>
-                            </div>
-                            <p class="meta">
-                            {{.WordCount}} words on {{partial "date-fmt.html" .}} 
-                            </p>
-                            {{partial "tags.html" .}}
-                        </div>
-                    </li>
-                    {{end}}
-                </ul>
-                <a href="/posts">See {{sub (len $writing) 3}} more →</a>
-            </div>
     {{partial "header.html" .}}
     <article>
         {{partial "toc.html" .}}
