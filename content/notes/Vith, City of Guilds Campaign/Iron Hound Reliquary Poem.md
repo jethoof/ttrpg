@@ -7,7 +7,7 @@ status:
 cssclass: 
 ---
 
-# `=this.title`
+# Iron Hound Reliquary Poem
 A Bulwark with two shields,
 A medic with seven fingers,
 A captain with a trident,

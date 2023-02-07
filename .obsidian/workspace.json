@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Unpicked Scenarios.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Unpicked Scenarios.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Unpicked Scenarios.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Unpicked Scenarios.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -148,7 +148,15 @@
   },
   "active": "dfd8a5deb52e93ab",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/notes/Test Journal Entry.md"
+    "content/notes/Vith, City of Guilds Campaign/Trapper Opossum.md",
+    "content/notes/Vith, City of Guilds Campaign/Reliquary Heist Introduction by Opossum.md",
+    "content/notes/Vith, City of Guilds Campaign/Iron Hound Reliquary Poem.md",
+    "content/notes/Vith, City of Guilds Campaign/Vault Break In.md",
+    "content/notes/Vith, City of Guilds Campaign/Vith, City of Guilds Campaign.md",
+    "content/notes/20220922164036.md",
+    "content/notes/20221114213046.md",
+    "content/notes/Test Journal Entry.md",
+    "notes/20220922164036.md",
+    "content/notes/Pie Delivery.md"
   ]
 }
