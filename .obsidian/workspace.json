@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "bc056d7744012362",
+    "type": "split",
+    "children": [
+      {
+        "id": "028aa8a67154eae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd8a5deb52e93ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Journal Entry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb3ab32d8514f1a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ccc7101804e511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e56e26851c7a9b43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "724e3346b007c98f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22d45a4dce752335",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71d0b1fe9f859bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd3c1459f8b90ec9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8f201bb48a29943",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test Journal Entry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e463b73459ca1b7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Test Journal Entry.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf33ee756f44ebb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b50110a07fc1683",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test Journal Entry.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dfd8a5deb52e93ab",
+  "lastOpenFiles": [
+    "Test Journal Entry.md"
+  ]
+}
