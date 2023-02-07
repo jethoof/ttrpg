@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Journal Entry.md",
+                "file": "content/notes/Test Journal Entry.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Journal Entry.md",
+                "file": "content/notes/Test Journal Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Journal Entry.md",
+                "file": "content/notes/Test Journal Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Journal Entry.md"
+                "file": "content/notes/Test Journal Entry.md"
               }
             }
           }
@@ -146,8 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfd8a5deb52e93ab",
+  "active": "e56e26851c7a9b43",
   "lastOpenFiles": [
-    "Test Journal Entry.md"
+    "content/notes/Test Journal Entry.md"
   ]
 }
