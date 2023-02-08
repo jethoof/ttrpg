@@ -6,16 +6,75 @@
 {{partial "search.html" .}}
 <div class="singlePage">
     <!-- Begin actual content -->
-    {{partial "header.html" .}}
-    <article>
-        {{partial "toc.html" .}}
-
-        {{partial "textprocessing.html" . }}
-        {{if $.Site.Data.config.enableRecentNotes}}
-          {{partial "recent.html" . }}
+    <header>
+        <h1>{{if .Title}}{{ .Title }}{{else}}Untitled{{end}}</h1>
+        <svg tabindex="0" id="search-icon" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
+        <div class="spacer"></div>
+        {{partial "darkmode.html" .}}
+    </header>
+    <div class="index">
+        <div class="bio">
+            <div class="writing-sidebar">
+                 <div>
+                    <h2>Recent Journal</h2>
+                        {{$writing := where .Site.RegularPages "Section" "journal" }}
+                        <ul class="delay stagger">
+                            {{range first 3 $writing }}
+                            <li class="section-li">
+                                <div class="section">
+                                    <div class="desc">
+                                        <h3><a href="{{ .Permalink }}">{{- .Title -}}</a></h3>
+                                    </div>
+                                    <p class="meta">
+                                        {{.WordCount}} words. {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unknown{{end}}
+                                    </p>
+                                    {{partial "tags.html" .}}
+                                </div>
+                            </li>
+                            {{end}}
+                        </ul>
+                <a href="/home/journal">See {{sub (len $writing) 3}} more →</a>
+                <div>
+                <h2>Recent Notes</h2>
+                {{$notes := where .Site.RegularPages "Section" "nanowrimo"}}
+                <ul class="delay stagger">
+                    {{range first 3 $notes }}
+                    <li class="section-li">
+                        <div class="section">
+                            <div class="desc">
+                                <h3><a href="{{ .Permalink }}">{{- .Title -}}</a></h3>
+                            </div>
+                            <p class="meta">
+                                {{.WordCount}} words. {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unknown{{end}}
+                            </p>
+                            {{partial "tags.html" .}}
+                        </div>
+                    </li>
+                    {{end}}
+                </ul>
+                <a href="/home/nanowrimo">See {{sub (len $notes) 3}} more →</a>
+            </div>
+       </div>
+            </div>
+       <article>
+            {{ if (and $.Site.Data.config.enableToc (ne .Params.enableToc false) (gt .WordCount 250)) }}
+            <aside class="mainTOC">
+                <details {{ if $.Site.Data.config.openToc }}open {{ end }}>
+                    <summary>Table of Contents</summary>
+                    {{ .TableOfContents }}
+                </details>
+            </aside>
         {{end}}
+        {{partial "textprocessing.html" . }}
     </article>
-    {{partial "footerIndex.html" .}}
+    </div>
+</div>
+
+    <div>
+    {{partial "footer.html" .}}
+    {{partial "popover.html" .}}
+
+    </div>
 </div>
 </body>
 </html>
