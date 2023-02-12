@@ -18,6 +18,43 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "2c68648510a210c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Vith, City of Guilds Campaign/Iron Hounds Reliquary.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d70fefda21df21ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "4e98e489816a51d0"
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a085d79325cf3949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9291bc5a3f0d9e86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "4e98e489816a51d0"
           }
         ]
       }
@@ -85,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/_index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfd8a5deb52e93ab",
+  "active": "d70fefda21df21ef",
   "lastOpenFiles": [
+    "content/notes/journal/2023 Updates.md",
     "content/templates/post.md",
+    "content/notes/Vith, City of Guilds Campaign/Iron Hounds Reliquary.md",
+    "content/notes/Vith, City of Guilds Campaign/IHR - planning.md",
+    "content/notes/OMG One Shot Campaign Selection and Outline.md",
     "content/_index.md",
     "content/private/editing.md",
     "content/notes/20220922164036.md",
     "content/notes/Vith, City of Guilds Campaign/Trapper Opossum.md",
-    "content/notes/Vith, City of Guilds Campaign/Reliquary Heist Introduction by Opossum.md",
-    "content/notes/Vith, City of Guilds Campaign/Iron Hound Reliquary Poem.md",
-    "content/notes/Vith, City of Guilds Campaign/Vault Break In.md",
-    "content/notes/Vith, City of Guilds Campaign/Vith, City of Guilds Campaign.md",
-    "content/notes/20221114213046.md"
+    "content/notes/Vith, City of Guilds Campaign/Reliquary Heist Introduction by Opossum.md"
   ]
 }
