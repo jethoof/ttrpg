@@ -47,4 +47,6 @@ cssclass: illusion, table,
 | --------- | --- | --- | --- | --- | --- | --- | --- |
 | Stats     |     |     |     |     |     |     |     |
 | AC/ Saves |     |     |     |     |     |     |     |
-[[Reliquary Heist Introduction by Opossum]]
+
+___
+Related: [[Reliquary Heist Introduction by Opossum]]

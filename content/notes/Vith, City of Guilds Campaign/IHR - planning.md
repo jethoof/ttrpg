@@ -9,8 +9,8 @@ cssclass:
 words:
 draft: true
 ---
-%% From [[Iron Hounds Reliquary]]%%
-# `=this.title`
+
+# IHR - planning
 outline
 
 What is this place? 
@@ -30,3 +30,6 @@ Scenes
 4. Exit: do you walk out again through the entrance or find another exit?
 	1. walk out the way they walked in
 	2. find a secret exit leads to the field tilled by undead.
+
+
+ Originally from: [[Iron Hounds Reliquary]]
