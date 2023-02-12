@@ -1,11 +1,10 @@
 ---
 title: Skeletons in My Closet
+date: 2023-02-11
 tags:
 - tool/reference
 - ttrpg
 type:
-source: 
-cssclass:
 ---
 
 # Skeletons in My Closet (SiMC)
