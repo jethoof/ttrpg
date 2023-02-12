@@ -1,6 +1,5 @@
-baseURL = "https://jethoof.github.io/ttrpg/"
+baseURL = "https://quartz.jzhao.xyz/"
 languageCode = "en-us"
-googleAnalytics = "G-F47EM0N6FM"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
