@@ -1,21 +1,12 @@
 name: Jethoof
 enableToc: true
-openToc: false
 enableLinkPreview: true
 enableLatex: true
-enableCodeBlockTitle: true
-enableCodeBlockCopy: true
-enableCallouts: true
-enableSPA: true
-enableFooter: true
-enableContextualBacklinks: true
-enableRecentNotes: false
-enableGitHubEdit: true
-GitHubLink: https://github.com/jethoof
-enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
   Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "Jethoof's TTRPG Sandbox"
+  "Jethoof's Digital Garden"
+links:
+  - link_name: Github
+    link: https://github.com/jethoof
