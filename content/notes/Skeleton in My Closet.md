@@ -5,12 +5,7 @@ enableToc: false
 tags:
 - tool/reference
 - ttrpg
-<<<<<<< Updated upstream
-
-=======
-type:
 aliases: Skeletons in My Closet
->>>>>>> Stashed changes
 ---
 
 # Skeletons in My Closet (SiMC)
