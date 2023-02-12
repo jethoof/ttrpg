@@ -5,7 +5,12 @@ enableToc: false
 tags:
 - tool/reference
 - ttrpg
+<<<<<<< Updated upstream
 
+=======
+type:
+aliases: Skeletons in My Closet
+>>>>>>> Stashed changes
 ---
 
 # Skeletons in My Closet (SiMC)
@@ -73,3 +78,5 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 >- A wanderer                                          
 
 ^wrongedyou
+
+If you like to have this as a markdown you can get it from [here](https://github.com/jethoof/ttrpg/blob/hugo/content/notes/Skeleton%20in%20My%20Closet.md).

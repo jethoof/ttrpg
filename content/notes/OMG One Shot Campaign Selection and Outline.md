@@ -32,12 +32,13 @@ This is just to speed up the character creation process of things and I'm pretty
 [[/notes/20220922164036|OMG 1Shot Roster]]
 ## Scenario
 
-> [!summary] Iron Hounds Reliquary
+> [!summary]  Iron Hounds Reliquary
 >| **Theme**: Western Fantasy Heist 
 >
 > The Iron Hounds is Vith's biggest dwarven security guild and is part of the Major Twelve guilds governing the city. The dwarves are known for keeping their fallen in their own burial grounds and Iron Hounds has their own called the Reliquary. You are a member in a small guild called Ratcatchers,  known for taking dirty jobs for hefty payments no one talks about. Your group leader, came to you with a daunting yet rewarding request; Infiltrate into the Iron Hound's Reliquary and retrieve one of their strongbox in the vault.
->> [!info] Available Races
->> - Common: Human, Dwarf, Elf, Lizardfolk, Halfling
->> - Uncommon: Half-Elf, Half-Orc, Gnome, Tiefling
->> - Rare: Dragonborn, Tabaxi
+
+> [!info] Available Races
+> - Common: Human, Dwarf, Elf, Lizardfolk, Halfling
+> - Uncommon: Half-Elf, Half-Orc, Gnome, Tiefling
+> - Rare: Dragonborn, Tabaxi
 ^247c45
