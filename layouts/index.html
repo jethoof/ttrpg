@@ -11,8 +11,7 @@
     <article>
         {{partial "toc.html" .}}
 
-        {{partial "recent.html"}}
-
+       
         {{partial "textprocessing.html" . }}
         {{if $.Site.Data.config.enableRecentNotes}}
           {{partial "recent.html" . }}
