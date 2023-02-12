@@ -11,7 +11,7 @@
       <div class="writing-sidebar">
           <div class="delay t-3">
               <h2>Recent Notes</h2>
-              {{$writing := where .Site.RegularPages "Section" "notes" }}
+              {{$writing := where .Site.RegularPages "Section" "journal" }}
               <ul class="delay stagger">
                   {{range first 3 $writing }}
                   <li>
