@@ -15,13 +15,12 @@ Tabletop Role Playing Game offers a unique space for a group of people to come t
 
 Keep in mind PC's backgrounds only offer who they were and the main focus should be what happens in the session and what will happen between the PCs and GM's narrative going forward. 
 
-Don't get too caught up in the past. 
-Keep the past incomplete
+Don't get too caught up in the past, keep the past incomplete so the player and the GM can create them together.
 
 ## Inspiration Tables
 If you are not sure what kind of skeletons to keep in your character's closet, hope these tables could inspire you.
 
->[!list] **The reason why you are on the road...** 
+>[!list] ### **The reason why you are on the road...** 
 >-  You were exiled from your hometown       
 >- Searching for something/someone dear to you.           
 >- You have committed a crime and is on the run                  
@@ -31,7 +30,7 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 
 ^whyleft
 
->[!list] **You are carrying...**                         
+>[!list] ### **You are carrying...**                         
 > - A cherished gift from someone special                              
 > - A scar on your body                             
 > - A scar on your heart                           
@@ -42,7 +41,7 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 
 ^carrying
 
->[!list] **Someone is after you...** 
+>[!list] ### **Someone is after you...** 
 >- A family member                            
 >- A mentor                                     
 >- A student                                     
@@ -54,7 +53,7 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 
 ^pursuer
 
->[!list] Your vice is...      
+>[!list] ### **Your vice is...**      
 >- Glutton for food         
 >- Avarice for wealth       
 >- Lust for luxury          
@@ -65,7 +64,7 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 
 ^vice
 
->[!list] Someone has wronged you in the past...                   
+>[!list] ### **Someone has wronged you in the past...**                   
 >- A family member                             
 >- A lover                                      
 >- A friend                                     
@@ -74,24 +73,3 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 >- A wanderer                                          
 
 ^wrongedyou
-
-
-## Generators
-This requires dicer roller 
-
->[!error] The reason why you are on the road...
-> `dice: [[Skeleton in My Closet#^whyleft]]`
-
->[!error] You are carrying...
->`dice: [[Skeleton in My Closet#^carrying]]`
-
->[!error] Someone is after you...
->`dice: [[Skeleton in My Closet#^pursuer]]`
-
->[!error] Your vice is...   
->`dice: [[Skeleton in My Closet#^vice]]`
-
->[!error] Someone has wronged you in the past...  
->`dice: [[Skeleton in My Closet#^wrongedyou]]`
-
-![[NPC Modifier#^tldr]]
