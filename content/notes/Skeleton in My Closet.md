@@ -4,7 +4,7 @@ title: Skeletons in My Closet
 tags:
 - tool/reference
 - ttrpg
-type:
+enableToc: false
 ---
 
 # Skeletons in My Closet (SiMC)
