@@ -1,6 +1,6 @@
 ---
-title: Skeletons in My Closet
 date: 2023-02-11
+title: Skeletons in My Closet
 tags:
 - tool/reference
 - ttrpg
