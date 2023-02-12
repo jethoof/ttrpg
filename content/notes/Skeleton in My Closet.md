@@ -74,4 +74,4 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 
 ^wrongedyou
 
-If you like to have this as a markdown you can get it from [here](https://github.com/jethoof/ttrpg/blob/db810ab9c0a5fd0fea7a5352294d5f11ebe3add6/content/notes/Skeleton%20in%20My%20Closet.md).
+
