@@ -10,9 +10,9 @@ cssclass:
 words:
 ---
 %% From [[Skeleton in My Closet]]%%
-# `=this.title`
+# Skeletons in my Closet - Generators
 ## Generators
-This requires dicer roller 
+This requires dicer roller: 
 
 >[!error] The reason why you are on the road...
 > `dice: [[Skeleton in My Closet#^whyleft]]`
