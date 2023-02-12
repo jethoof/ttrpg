@@ -28,10 +28,14 @@ The ground level is guarded by two guards at any given time, the interior is unk
 
 # An Ode for Four Heroes
 A Bulwark with two shields,
+
 A clergy with seven fingers,
+
 A captain with a trident,
+
 A Scout with no arrows,
+
 Together they fought and rest here.
 
 
-%%![[IHR - planning]]%%
+Related: [[IHR - planning]]
