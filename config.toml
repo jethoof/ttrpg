@@ -1,5 +1,4 @@
 baseURL = "https://jethoof.github.io/ttrpg/"
-
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
