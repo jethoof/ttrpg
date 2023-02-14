@@ -7,7 +7,7 @@ tags:
 - oneshot
 - unused
 ---
-%% From [[OMG One Shot Campaign Selection and Outline]]%%
+%% From [[notes/ttrpg/OMG One Shot Campaign Selection and Outline]]%%
 # Unpicked Scenarios
 
 > [!summary] ##  Pie Delivery?
