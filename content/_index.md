@@ -9,4 +9,4 @@ Hi I am Jethoof and I love running TTRPG, mainly Dungeons and Dragons 5e, and tr
 
 In the future I want to post things about my experience in running a game.
 
-Also testing whether this would work in linking files [[notes/Vith, City of Guilds Campaign/Iron Hounds Reliquary|Iron Hounds Reliquary]]
+Also testing whether this would work in linking files [[Iron Hounds Reliquary|Iron Hounds Reliquary]]
