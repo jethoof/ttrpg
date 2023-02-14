@@ -1,13 +1,15 @@
 ---
+date: 2022-09-12
 title: Iron Hounds Reliquary
 alias: Iron Hounds Reliquary
 tags:
-- 
+- ttrpg
+- oneshot
 status:
 ---
 
 # Welcome to Vith, the city of guilds
-![[OMG One Shot Campaign Selection and Outline#^247c45]]
+![[OMG One Shot Campaign Selection and Outline]]
 
 Vith is a coastal metropolis with a river running along the middle. Its iconic buildings from a far is a giant walled guild building and  a floating disembodied tower with unblinking red eye at the center of the city. As you get closer to the metropolis, the city is distinctively separated in five districts by the style of the buildings; flat and stony Dwarven district, tall and mosaic Human district, park like Elven district, brass and steaming New District and the walled Guild District.
 
@@ -15,7 +17,7 @@ Vith is a thriving city state governed by twelve major guilds lead by Dwarves, E
 
 Ratcatchers are a relatively new guild housed in the New District taking jobs from various lines of high paying dirty jobs others shy away from. 
 
-Trapper's Name: [[Trapper Opossum]]
+Trapper's Name: Trapper Opossum
 
 The Reliquary
 Iron Hounds are the top security guild in the city, known for their black armor with red hound emblem on their shields. Brutally efficient and solid organization. They are armed to teeth and always patrols in groups. They are the descendants of war veterans of the last Great War and as far as everyone in Vith knows, only the fool cross their blade against them.
