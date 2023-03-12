@@ -11,7 +11,7 @@ Height: 5'3"
 Hair: Grey
 Eyes: Brown
 Skin: Pale
-Association: Ratcatchers
+faction: Ratcatchers
 Alignment:
 cssclass: illusion, table, 
 ---
@@ -26,7 +26,7 @@ cssclass: illusion, table,
 > |Hair| `=this.Hair`
 > |Eyes| `=this.Eyes`
 > |Skin| `=this.Skin`
-> |Association| `=this.Association`
+> |faction| `=this.faction`
 > |[[Alignment]]| `=this.Alignment`
 > 
 

@@ -2,7 +2,7 @@
 date: 2022-09-07
 title: OMG One Shot - Iron Hounds Reliquary Heist
 tags:
- - DnD
+ - ttrpg/dnd
 alias: OMG 1Shot
 status:
 cssclass: readable
