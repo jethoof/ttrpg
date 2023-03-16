@@ -8,6 +8,7 @@ tags:
 aliases:
 status:
 weight:
+enableToc: false
 ---
 
 Thanks Azurewren for requesting this:
@@ -66,7 +67,7 @@ I usually want to keep the combat encounter to no more than 5 rounds else I feel
 It takes anywhere between 1 to 3 minutes, sometimes even less, per player; this includes decision making, moving their tokens, rolling dice, exchanging confirmations and describing the scene. 
 
 
-> [!example]
+> [!example]-
 > Shadow Talons typically spend about 3 to 10 minutes per round of combat. the bulk of the time is actually me moving the enemies around.
 
 Don't forget you as a GM takes up a bulk of the time especially if you have lots of creatures to manage. 
@@ -75,13 +76,13 @@ Now with combat duration set up, The next step is to set up the creature's HP th
 
 Ensure to click on graph and At least option and find where the graph hits the 50% value, if that is the hit rate you want to aim for. I am using 50% as my benchmark since that's the general design of the Dungeons and Dragons.
 
-> [!example]
+> [!example]-
 > For Shadow Talons, the solo creature has HP 162 (108 * 3 * 0.5) and AC 18
 > ![[AnyDice 20230314205125.png]]
 
 Then focus on the offense by calculating the hit rate of the monster to be 50% based on the ACC and damage output as one 1/3 of the AHP.
 
-> [!example]
+> [!example]-
 > the creature's main attack has +5 to hit and deals 3d6+4(13) damage per strike. 
 
 Do fiddle around with the Anydice and get the curve. If you decide to go for multi-attack, consider the following:
@@ -90,7 +91,7 @@ Do fiddle around with the Anydice and get the curve. If you decide to go for mul
 
 The last part is assigning their saves, there are 6 types of saves with the major three categories are Con, Dex or Wis saves. The easy way for me to assign saves is to pick one as strong and another as decent. This is calculated by putting attack bonus as its strong save and 1/3 rounded down for decent and rest gets no bonus at all.
 
-> [!example] 
+> [!example]-
 > Base Monster Stat
 > - HP: 162
 > - AC: 18
