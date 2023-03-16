@@ -20,32 +20,19 @@
             }
           },
           {
-            "id": "2c68648510a210c4",
+            "id": "9156f6c3b7c402fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Vith, City of Guilds Campaign/Iron Hounds Reliquary.md",
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "d70fefda21df21ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/journal/Skeleton in My Closet.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "4e98e489816a51d0"
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a085d79325cf3949",
@@ -55,14 +42,11 @@
             "id": "9291bc5a3f0d9e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/notes/journal/Skeleton in My Closet.md",
-                "mode": "preview",
-                "source": true
+                "file": "content/notes/images/AnyDice20230314205125.png"
               }
-            },
-            "group": "4e98e489816a51d0"
+            }
           }
         ]
       }
@@ -130,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/journal/Skeleton in My Closet.md",
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/journal/Skeleton in My Closet.md",
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/journal/Skeleton in My Closet.md"
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md"
               }
             }
           }
@@ -191,12 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d70fefda21df21ef",
+  "active": "9156f6c3b7c402fd",
   "lastOpenFiles": [
+    "content/notes/images/AnyDice20230314205125.png",
     "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+    "content/notes/images/AnyDice.md",
     "content/private/obsidian.md",
-    "content/private/ignore notes.md",
     "content/private/philosophy.md",
+    "content/notes/journal/Skeleton in My Closet.md",
+    "content/private/ignore notes.md",
     "content/private/Pie Delivery.md",
     "content/private/preview changes.md",
     "content/private/private-note.md",
@@ -215,9 +202,6 @@
     "content/_index.md",
     "content/notes/journal/2023 Updates.md",
     "content/templates/post.md",
-    "content/notes/Vith, City of Guilds Campaign/Iron Hounds Reliquary.md",
-    "content/notes/Vith, City of Guilds Campaign/IHR - planning.md",
-    "content/notes/OMG One Shot Campaign Selection and Outline.md",
-    "content/notes/20220922164036.md"
+    "content/notes/Vith, City of Guilds Campaign/Iron Hounds Reliquary.md"
   ]
 }
