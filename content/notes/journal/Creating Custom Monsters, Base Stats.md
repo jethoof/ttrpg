@@ -4,6 +4,7 @@ title: Creating Custom Monsters, Base Stats
 date: 2023-03-15
 tags: 
 - DnD5e
+- ttrpg
 aliases:
 status:
 weight:
