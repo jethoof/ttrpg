@@ -77,8 +77,9 @@ Now with combat duration set up, The next step is to set up the creature's HP th
 Ensure to click on graph and At least option and find where the graph hits the 50% value, if that is the hit rate you want to aim for. I am using 50% as my benchmark since that's the general design of the Dungeons and Dragons.
 
 > [!example]-
-> For Shadow Talons, the solo creature has HP 162 (108 * 3 * 0.5) and AC 18
-> ![[AnyDice 20230314205125.png]]
+> For Shadow Talons, the solo creature has HP 162 (108 * 3 * 0.5) and AC 18. 
+> 
+> ![[content/notes/images/AnyDice 20230314205125.png]]
 
 Then focus on the offense by calculating the hit rate of the monster to be 50% based on the ACC and damage output as one 1/3 of the AHP.
 

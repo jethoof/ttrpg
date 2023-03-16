@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/journal/Test Journal Entry.md",
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
                 "mode": "source",
                 "source": true
               }
@@ -57,8 +57,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/journal/Test Journal Entry.md",
-                "mode": "source",
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/journal/Test Journal Entry.md",
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/journal/Test Journal Entry.md",
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/journal/Test Journal Entry.md"
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md"
               }
             }
           }
@@ -191,8 +191,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d70fefda21df21ef",
+  "active": "9291bc5a3f0d9e86",
   "lastOpenFiles": [
+    "content/notes/Creative/20221114213046.md",
     "content/_index.md",
     "content/notes/journal/2023 Updates.md",
     "content/templates/post.md",
