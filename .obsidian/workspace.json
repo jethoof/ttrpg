@@ -29,24 +29,28 @@
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "383e0db2ac4b862a"
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "a085d79325cf3949",
+        "id": "445b082b5644724c",
         "type": "tabs",
         "children": [
           {
-            "id": "9291bc5a3f0d9e86",
+            "id": "fc623ef7cb5466fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/notes/images/AnyDice20230314205125.png"
+                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+                "mode": "preview",
+                "source": true
               }
-            }
+            },
+            "group": "383e0db2ac4b862a"
           }
         ]
       }
@@ -177,12 +181,12 @@
   },
   "active": "9156f6c3b7c402fd",
   "lastOpenFiles": [
-    "content/notes/images/AnyDice20230314205125.png",
+    "content/notes/journal/Skeleton in My Closet.md",
     "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+    "content/notes/images/AnyDice20230314205125.png",
     "content/notes/images/AnyDice.md",
     "content/private/obsidian.md",
     "content/private/philosophy.md",
-    "content/notes/journal/Skeleton in My Closet.md",
     "content/private/ignore notes.md",
     "content/private/Pie Delivery.md",
     "content/private/preview changes.md",
