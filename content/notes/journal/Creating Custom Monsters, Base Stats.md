@@ -79,7 +79,7 @@ Ensure to click on graph and At least option and find where the graph hits the 5
 > [!example]
 > For Shadow Talons, the solo creature has HP 162 (108 * 3 * 0.5) and AC 18. 
 > 
-> ![[content/notes/images/AnyDice 20230314205125.png]]
+> ![](content/notes/images/AnyDice 20230314205125.png)
 
 Then focus on the offense by calculating the hit rate of the monster to be 50% based on the ACC and damage output as one 1/3 of the AHP.
 
