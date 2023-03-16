@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+                "file": "content/notes/journal/Skeleton in My Closet.md",
                 "mode": "source",
                 "source": true
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+                "file": "content/notes/journal/Skeleton in My Closet.md",
                 "mode": "preview",
                 "source": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+                "file": "content/notes/journal/Skeleton in My Closet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+                "file": "content/notes/journal/Skeleton in My Closet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md"
+                "file": "content/notes/journal/Skeleton in My Closet.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "d70fefda21df21ef",
   "lastOpenFiles": [
-    "content/private/obsidian.md",
     "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+    "content/private/obsidian.md",
     "content/private/ignore notes.md",
     "content/private/philosophy.md",
     "content/private/Pie Delivery.md",

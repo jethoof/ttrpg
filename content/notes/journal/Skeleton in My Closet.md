@@ -19,7 +19,7 @@ Don't get too caught up in the past, keep the past incomplete so the player and 
 ## Inspiration Tables
 If you are not sure what kind of skeletons to keep in your character's closet, hope these tables could inspire you.
 
->[!list] ### **The reason why you are on the road...** 
+>[!list] **The reason why you are on the road...** 
 >-  You were exiled from your hometown       
 >- Searching for something/someone dear to you.           
 >- You have committed a crime and is on the run                  
@@ -27,9 +27,8 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 >- You have abandoned your duty                           
 >- A debtor is out to collect your dues                                                        
 
-^whyleft
 
->[!list] ### **You are carrying...**                         
+>[!list] **You are carrying...**                         
 > - A cherished gift from someone special                              
 > - A scar on your body                             
 > - A scar on your heart                           
@@ -38,9 +37,8 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 > - A heavy guilt on your shoulders.                                        
 > - An unopened letter addressed to you            
 
-^carrying
 
->[!list] ### **Someone is after you...** 
+>[!list] **Someone is after you...** 
 >- A family member                            
 >- A mentor                                     
 >- A student                                     
@@ -50,9 +48,7 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 >- A rival
 >- An enemy
 
-^pursuer
-
->[!list] ### **Your vice is...**      
+>[!list] **Your vice is...**      
 >- Glutton for food         
 >- Avarice for wealth       
 >- Lust for luxury          
@@ -61,9 +57,8 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 >- Envy for other's talents 
 >- Wrath for vengeance                        
 
-^vice
 
->[!list] ### **Someone has wronged you in the past...**                   
+>[!list] **Someone has wronged you in the past...**                   
 >- A family member                             
 >- A lover                                      
 >- A friend                                     
@@ -71,6 +66,5 @@ If you are not sure what kind of skeletons to keep in your character's closet, h
 >- A person from different culture / background
 >- A wanderer                                          
 
-^wrongedyou
 
 
