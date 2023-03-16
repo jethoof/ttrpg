@@ -53,7 +53,7 @@ DpT can be a bit of a challenge and you can obtain this value from two methods:
 
 I'm going to use  one of the campaign groups, Shadow Talons, as an example here. 
 
-> [!example]- Shadow Talons
+> [!example]-
 > Shadow Talons is a group of 3 level 4 characters.
 > - AHP: 40
 > - AAB: +7
