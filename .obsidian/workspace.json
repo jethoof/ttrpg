@@ -46,7 +46,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/notes/journal/Creating Custom Monsters, Base Stats.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             },
@@ -181,9 +181,10 @@
   },
   "active": "9156f6c3b7c402fd",
   "lastOpenFiles": [
-    "content/notes/journal/Skeleton in My Closet.md",
-    "content/notes/journal/Creating Custom Monsters, Base Stats.md",
     "content/notes/images/AnyDice20230314205125.png",
+    "content/notes/journal/Creating Custom Monsters, Base Stats.md",
+    "content/templates/post.md",
+    "content/notes/journal/Skeleton in My Closet.md",
     "content/notes/images/AnyDice.md",
     "content/private/obsidian.md",
     "content/private/philosophy.md",
@@ -205,7 +206,6 @@
     "content/notes/Creative/20221114213046.md",
     "content/_index.md",
     "content/notes/journal/2023 Updates.md",
-    "content/templates/post.md",
     "content/notes/Vith, City of Guilds Campaign/Iron Hounds Reliquary.md"
   ]
 }

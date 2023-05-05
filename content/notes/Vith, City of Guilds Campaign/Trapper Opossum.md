@@ -21,13 +21,13 @@ cssclass: illusion, table,
 > |Race| `=this.Race`
 > |Gender| `=this.Gender`
 > |Age| `=this.Age`
-> |[[Body type]]| `=this.Body_Type`
+> |Body Type| `=this.Body_Type`
 > |Height| `=this.Height`
 > |Hair| `=this.Hair`
 > |Eyes| `=this.Eyes`
 > |Skin| `=this.Skin`
 > |faction| `=this.faction`
-> |[[Alignment]]| `=this.Alignment`
+> |Alignment| `=this.Alignment`
 > 
 
 

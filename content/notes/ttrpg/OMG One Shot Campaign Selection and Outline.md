@@ -2,7 +2,7 @@
 date: 2022-09-07
 title: OMG One Shot - Iron Hounds Reliquary Heist
 tags:
- - ttrpg/dnd
+ - DnD5e 
 alias: OMG 1Shot
 status:
 cssclass: readable
@@ -29,7 +29,7 @@ This is just to speed up the character creation process of things and I'm pretty
 - **Heirloom**: You gain one mastercraft (non-magical +1 item) equipment that's been in your family passed down for generation(s).
 - **Quirk**: At level 1, you have a bonus feat. 
 
-[[notes/ttrpg/20220922164036|OMG 1Shot Roster]]
+[[20220922164036 OMG 1Shot Roster|OMG 1Shot Roster]]
 ## Scenario
 
 > [!summary]  Iron Hounds Reliquary
